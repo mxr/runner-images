@@ -201,7 +201,8 @@
             "swig",
             "telnet",
             "time",
-            "zip"
+            "zip",
+            "zsh"
         ]
     },
     "docker": {
